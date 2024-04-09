@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Kalugina/static/css/main.f155920b.css",
-    "main.js": "/Kalugina/static/js/main.dd0966ab.js",
+    "main.js": "/Kalugina/static/js/main.ba1ee394.js",
     "index.html": "/Kalugina/index.html",
     "main.f155920b.css.map": "/Kalugina/static/css/main.f155920b.css.map",
-    "main.dd0966ab.js.map": "/Kalugina/static/js/main.dd0966ab.js.map"
+    "main.ba1ee394.js.map": "/Kalugina/static/js/main.ba1ee394.js.map"
   },
   "entrypoints": [
     "static/css/main.f155920b.css",
-    "static/js/main.dd0966ab.js"
+    "static/js/main.ba1ee394.js"
   ]
 }
